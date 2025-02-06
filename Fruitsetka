@@ -1,5 +1,5 @@
 {
-    "FruitEnable": true
+    "FruitEnable": true,
     "FruitLang": ["Spanish"],
     "FruitTime": ["Santiago" , "Easter", "Punta_Arenas", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun"],
     "FruitLink": 
