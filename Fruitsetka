@@ -1,12 +1,11 @@
 {
     "FruitEnable": true,
-    "FruitLang": ["Spanish", "Russian", "German"],
+    "FruitLang": ["Spanish", "Russian"],
     "FruitTime": ["Santiago" , "Easter", "Punta_Arenas", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk", "Bishkek", "Chisinau", "Dushanbe", "Tashkent", "Vienna"],
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk", "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "FruitLink": 
     [ 
           { "Lang":"Spanish", "Links": ["https://1waufy.com/casino/list?open=register&p=dolh", "https://toptdspup.com/kkD8MBfn/", "https://1wrojn.top/casino/list?open=register"]},
-          { "Lang":"Russian", "Links": ["https://partnerprofitboost.com/4dCNehUg/"]},
-          { "Lang":"German", "Links": ["https://lgamisquall.com/5aiVJ"]}
+          { "Lang":"Russian", "Links": ["https://partnerprofitboost.com/4dCNehUg/"]}
     ]
  }
